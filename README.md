@@ -96,5 +96,5 @@ That combination lets me contribute in roles that need more than isolated coding
 ## Connect
 
 - **GitHub:** [github.com/JGM-droid](https://github.com/JGM-droid)
-- **LinkedIn:** add profile URL
-- **Portfolio website:** coming soon
+- **LinkedIn:** available on request
+- **Portfolio website:** reserved for a future portfolio site
