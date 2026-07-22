@@ -1,8 +1,8 @@
 # Jesse Montemayor
 
-**Enterprise technology professional building software, backend APIs, AI applications, and production-style MLOps projects.**
+**Enterprise Technology Professional specializing in backend software, AI applications, machine learning, and production-style MLOps systems.**
 
-I bring **10+ years of experience** helping organizations evaluate, implement, and adopt technology across **technical sales, pre-sales engineering, solution consulting, enterprise infrastructure, SaaS, storage, and customer-facing technical leadership**.
+As an **Enterprise Technology Professional**, I've helped organizations evaluate, implement, and adopt technology across **technical sales, pre-sales engineering, solution consulting, enterprise infrastructure, SaaS, storage, and customer-facing technical leadership**.
 
 My background includes work with **Bill.com**, **Hewlett Packard Enterprise (HPE)**, **Sirius Computer Solutions / CDW**, and **Cbeyond**. Over the course of that work, I partnered closely with engineering teams, customers, implementation teams, and executives to solve technical problems, design practical solutions, and drive adoption.
 
@@ -100,5 +100,5 @@ That combination lets me contribute in roles that need more than isolated coding
 ## Connect
 
 - **GitHub:** [github.com/JGM-droid](https://github.com/JGM-droid)
-- **LinkedIn:** Placeholder — add public LinkedIn profile URL
+- **LinkedIn:** [linkedin.com/in/jessegmontemayor](https://www.linkedin.com/in/jessegmontemayor/)
 - **Portfolio website:** reserved for a future portfolio site
